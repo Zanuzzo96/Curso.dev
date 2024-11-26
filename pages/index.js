@@ -1,7 +1,7 @@
-function Home(){
+function pagina() {
     return(
-        <h1>Amanda deliciosa S2, te amo </h1>
+        "Oi xuxuzinho, saiba que eu te amo"
     )
 }
 
-export default Home;
+export default pagina
